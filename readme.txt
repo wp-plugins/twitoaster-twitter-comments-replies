@@ -4,7 +4,7 @@ Donate link: http://twitoaster.com/about/
 Tags: comments, post, tweet, twitter
 Requires at least: 2.2
 Tested up to: 2.8.5
-Stable tag: trunk
+Stable tag: 1.2.3
 
 Automatically retrieve Twitter Replies to your Blog's Posts. These Twitter Replies are handled like Posts Comments. Also bring Twitter Statistics.
 
